@@ -1,0 +1,194 @@
+.nettsted {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #ABBAAB;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0.25%;
+    /* margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+}
+
+.toppen {
+
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    width: 98%;
+    height: 150px;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+
+
+}
+
+.venstre {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+
+    /* height: inherit; */
+    width: 12%;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    
+}
+
+.toppSenter {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+
+    /* height: inherit; */
+    width: 69%;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+.lenke {
+    display: flex;
+    flex-direction: row;
+    border: 2px dotted grey;
+    font-size: 40px;
+    width: 20%;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+
+.hoeyre {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    /* height: inherit; */
+    width: 12%;
+
+    margin: inherit;
+    border: 2px solid green;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    
+}
+
+.underToppen {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    width: 98%;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+.senter{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+
+    width: 69%;
+    height: 800px;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+
+.sak {
+    display: flex;
+
+    width: 98%;
+    
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+.sak h1{
+    font-size: 20px;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+.level1{
+    display: flex;
+    position: relative;
+    border: 10px solid red;
+    width: 98%;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+.level2 {
+    display: flex;
+    position: relative;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
+
+.level3{
+    display: flex;
+    position: relative;
+
+    border: 2px solid green;
+    margin: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+}
